@@ -1,6 +1,7 @@
 using DatingApp.Data;
 using DatingApp.Extensions;
 using DatingApp.Interfaces;
+using DatingApp.Moddleware;
 using DatingApp.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
@@ -16,7 +17,10 @@ builder.Services.AddApplicationServices(builder.Configuration);
 builder.Services.AddIdentityServices(builder.Configuration);
 var app = builder.Build();
 
+
+
 // Configure the HTTP request pipeline.
+app.UseMiddleware<ExceptionMiddleware>();
 
 app.UseCors(builder => builder.AllowAnyHeader().AllowAnyMethod().WithOrigins("https://localhost:4200"));
 
