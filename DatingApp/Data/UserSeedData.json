@@ -70,7 +70,7 @@
     "Country": "Mauritius",
     "Photos": [
       {
-        "Url": "https://randomuser.me/api/portraits/women/35.jpg",
+        "Url": "https://randomuser.me/api/portraits/women/31.jpg",
         "IsMain": true
       }
     ]
@@ -97,7 +97,7 @@
 
   {
     "UserName": "Hall",
-    "Gender": "female",
+    "Gender": "male",
     "DateOfBirth": "1982-07-02",
     "KnownAs": "Hall",
     "Created": "2019-11-19",
@@ -109,14 +109,14 @@
     "Country": "Kiribati",
     "Photos": [
       {
-        "Url": "https://randomuser.me/api/portraits/women/98.jpg",
+        "Url": "https://randomuser.me/api/portraits/men/98.jpg",
         "IsMain": true
       }
     ]
   },
   {
     "UserName": "Maddox",
-    "Gender": "female",
+    "Gender": "male",
     "DateOfBirth": "1980-07-27",
     "KnownAs": "Maddox",
     "Created": "2020-01-07",
@@ -128,14 +128,14 @@
     "Country": "Cote D'Ivoire (Ivory Coast)",
     "Photos": [
       {
-        "Url": "https://randomuser.me/api/portraits/women/41.jpg",
+        "Url": "https://randomuser.me/api/portraits/men/41.jpg",
         "IsMain": true
       }
     ]
   },
   {
     "UserName": "Cochran",
-    "Gender": "female",
+    "Gender": "male",
     "DateOfBirth": "1992-07-11",
     "KnownAs": "Cochran",
     "Created": "2019-08-21",
@@ -147,14 +147,14 @@
     "Country": "Bolivia",
     "Photos": [
       {
-        "Url": "https://randomuser.me/api/portraits/women/61.jpg",
+        "Url": "https://randomuser.me/api/portraits/men/61.jpg",
         "IsMain": true
       }
     ]
   },
   {
     "UserName": "Underwood",
-    "Gender": "female",
+    "Gender": "male",
     "DateOfBirth": "1982-02-20",
     "KnownAs": "Underwood",
     "Created": "2019-07-15",
@@ -166,14 +166,14 @@
     "Country": "Nigeria",
     "Photos": [
       {
-        "Url": "https://randomuser.me/api/portraits/women/86.jpg",
+        "Url": "https://randomuser.me/api/portraits/men/86.jpg",
         "IsMain": true
       }
     ]
   },
   {
     "UserName": "Chan",
-    "Gender": "female",
+    "Gender": "male",
     "DateOfBirth": "1959-03-27",
     "KnownAs": "Chan",
     "Created": "2019-10-03",
@@ -185,7 +185,7 @@
     "Country": "Nicaragua",
     "Photos": [
       {
-        "Url": "https://randomuser.me/api/portraits/women/50.jpg",
+        "Url": "https://randomuser.me/api/portraits/men/50.jpg",
         "IsMain": true
       }
     ]

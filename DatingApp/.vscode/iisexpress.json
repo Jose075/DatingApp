@@ -1,0 +1,7 @@
+{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "port": 44363,
+  "path": "./",
+  "clr": "v4.0",
+  "protocol": "https"
+}
